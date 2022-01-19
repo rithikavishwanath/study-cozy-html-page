@@ -1,0 +1,112 @@
+body{
+    margin-top: 0%;
+    text-align: center;
+    margin: 0;
+}
+.top{
+    padding-top: 30px;
+    height: 200px;
+    margin-bottom: 30px;
+    background-color: #91C788;
+    padding-bottom: 80px;
+}
+#logo{
+    margin-top: 3px;
+    width: 40px;
+    position: absolute;
+    right:95%;
+
+}
+#button{
+    margin-top: 10px;
+    position: absolute;
+    left: 93%;
+    background-color: #000;
+    border: 2px solid #1A1A1A;
+    padding: 3px;
+    border-radius: .375em;
+    box-shadow: none;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.heading{
+    padding-top: 40px;
+}
+h3{
+    font-family:  'cursive';
+}
+#sc{
+    font-size: 40px;
+    padding-bottom: 0;
+    margin-bottom: 10px;
+}
+#rv{
+    padding-top: 10;
+    margin-top: 0;
+}
+
+/* part1 */
+
+.psimg{
+    width: 50px;
+}
+.part1{
+    margin-top: 150px;
+}
+.part1s{
+    margin-top: 50px;;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+#ps1{
+    float:left; 
+    width:25%;
+    height:280px;
+
+}
+#ps2{
+    float:left; 
+    width:50%;
+    height:280px;
+
+}
+#ps3{
+    float:right;
+    width:25%;
+    height:280px;
+}
+ 
+
+/* dog part */
+.dog{
+    width: 70px;
+    border-radius: 100px;
+    float: left;
+}
+.p3s3{
+    margin-bottom: 15px;
+   margin-left: 100px;
+   margin-right: 100px;
+   padding: 50px;
+   background-color: #D8AC9C;
+   
+}
+.p3s31{
+    margin-bottom: 15px;
+    margin-left: 100px;
+   margin-right: 100px;
+    padding: 50px;
+    background-color: #D8AC9C;
+    margin-top: 0;
+}
+
+/* end */
+.end{
+    background-color: #91C788;
+    padding-top: 30px;
+    padding-bottom: 40px;
+}
+#bye{
+    font-size: 15px;
+}
